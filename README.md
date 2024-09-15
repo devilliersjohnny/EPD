@@ -104,3 +104,4 @@ ___
 | EDB Date of Installation (YYYY-MM-DD) | (YYYY-MM-DD) | Date that the EDB system was installed
 
 
+<a href="https://www.buymeacoffee.com/digi_v" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/white_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
